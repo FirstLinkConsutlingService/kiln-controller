@@ -1,6 +1,9 @@
 This document describes the temperature controller profile and schedule mechanism
 
 The entire functionality of the profile/schedule is contained in this directory
+https://htmlguide.readthedocs.io/en/latest/html/jquery.html
+
+JAVSCRIPT:https://www.tutorialspoint.com/javascript/javascript_nested_functions.htm
 
 
 .
@@ -30,4 +33,11 @@ The entire functionality of the profile/schedule is contained in this directory
 ├── picoreflow.js
 └── select2.min.js
     We will analyse those files as their current internal documentation is quite poor. 
+
+- References
+
+	jquery : https://www.educba.com/bootstrap-vs-jquery-ui/
+
+
     
+
